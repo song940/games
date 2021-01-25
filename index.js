@@ -1,0 +1,1 @@
+import { Emulator } from 'https://lsong.org/nes-emulator/dist/index.js'
